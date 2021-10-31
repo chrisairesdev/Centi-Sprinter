@@ -69,3 +69,7 @@ footer .social>a:hover{
     bottom: 0;
     width: 100%;
 }
+
+.logoFont {
+    font-family: 'Libre Baskerville', serif;
+}
